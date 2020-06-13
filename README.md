@@ -6,6 +6,6 @@
 
 * **Visualization:** For map visualizations, I used **Plotly Express** library, and for plotting graphs and charts, I used the popular **Matplotlib Pyplot**.
 
-* **Data Sources:** 1. https://github.com/CSSEGISandData/COVID-19
-2. https://unemploymentinindia.cmie.com/
+* **Data Sources:** * https://github.com/CSSEGISandData/COVID-19
+                    * https://unemploymentinindia.cmie.com/
 
