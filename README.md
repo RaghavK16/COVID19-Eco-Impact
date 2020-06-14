@@ -2,6 +2,8 @@
 
 * A minimal Data Visualization project, to assess and visualize the economical effects of covid on the world, especially India.
 
+* Datasets are updated daily, keeping the visualization live and relevant.
+
 ## Data Collection: 
 
 All data was collected for the visualizations, using web-scraping libraries **requests** and **BeautifulSoup**.
